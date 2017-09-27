@@ -1,0 +1,60 @@
+a:hover{
+	text-decoration: none;
+}
+.mainlogin{
+	background: url('../images/Title.JPG') no-repeat center;
+}
+.bgimage{
+	
+	background-color:rgba(76, 175, 80, 0.4) ;
+	/*background-image: url('../images/Title.JPG'); */
+	background-position: center;
+	background-size: cover;
+	height: 150px;
+}
+
+.navbar.navbar-default{
+	background-image: linear-gradient(to bottom,#fff 0,#92cb91 100%);
+	color: white;
+	
+}
+.navbar.navbar-default a, .navbar.navbar-default ul li a{
+	color: #337ab7;
+}
+.navbar-default{
+	border: none;
+}
+
+.navbar-brand >img{
+	width: 20px;
+}
+ nav ul li a span {
+ 	margin-right: 5px;
+ }
+
+ main div section{
+ 	text-align: center;
+ 	margin-bottom: 20px;
+ 	margin-top: 20px;
+ }
+ main section span{
+	display: block;
+	
+ }
+
+ main div section>span{
+ 	
+ 	width: 120px;
+ 	height: 120px;
+ 	padding-top: 25%;
+ 	border-radius:50%;
+
+ }
+ main div section>span:hover, main div section>span a:hover {
+ 	background-color: lightblue;
+ 	color: white
+
+ }
+ .content{
+ 	margin-top:75px;
+ }
