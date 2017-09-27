@@ -1,5 +1,5 @@
-
-<div class="row">
+<!-- Add Team Member include -->
+<div class="row"> 
 	<div class="row">
 		<span class="fa-stack">
 			<span class="fa fa-user fa-stack-2x"></span>
